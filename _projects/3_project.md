@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: ECSNeT++
+description: A stream processing applications simulator.
+redirect: https://sedgecloud.github.io/ECSNeTpp/
 importance: 3
-category: work
+category: personal
+github: https://github.com/sedgecloud/ECSNeTpp
 ---
 
 Every project has a beautiful feature showcase page.
@@ -22,7 +22,7 @@ To give your project a background in the portfolio page, just add the img tag to
     ---
 
 <div class="row">
-    <div class="col-sm mt-3 mt-md-0">
+    <div class="col-sm mt-3 mt-md-0" style="width: 50%;height: auto;">
         {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">

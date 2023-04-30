@@ -1,11 +1,16 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Procurement management with blockchains
+description: A prototype solution to use a Hyperledger Fabric based blockchain backend for procurement management in construction industry.
 img:
+# redirect: https://www.sciencedirect.com/science/article/abs/pii/S0926580520301886
 importance: 3
-category: fun
+category: todo
 ---
+
+This is a prototype solution built with permissioned blockchain technology for procurement management in the construction industry. As a decentralized digital solution, the platform is designed to streamline the entire procurement life cycle from start to finish. With features such as improved communication, document sharing, auditability, observability, and quality endorsement, the blockchain solution facilitates better understanding and collaboration between all stakeholders. Based on extensive research and industry cases, the platform is optimized for the construction industry and is specifically tailored to meet the needs of private and permissioned blockchain networks. Our pilot study using Hyperledger Fabric and Ethereum demonstrates the feasibility and benefits of adopting blockchain technology in construction.
+
+Read <a href="https://www.sciencedirect.com/science/article/abs/pii/S0926580520301886">the research paper</a> for further details.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

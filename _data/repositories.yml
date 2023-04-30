@@ -1,12 +1,10 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - GayashanNA
 
 github_repos:
-  - alshedivat/al-folio
-  - twbs/bootstrap
-  - jekyll/jekyll
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - jpswalsh/academicons
-  - mathjax/MathJax
+  - sedgecloud/ECSNeTpp
+  - CSE-UoM/MCQAutoGrader
+  - sedgecloud/ECSNeT-LTE-Plugin
+  - GayashanNA/SimpleExpenseManager
+  - GayashanNA/my-scripts
+  - GayashanNA/SoluD
